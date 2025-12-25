@@ -14,3 +14,11 @@ The interface tracks four primary metrics to ensure "farm" health:
  * Active Accounts: Accounts currently passing login checks.
  * Emails Sent: Global counter for outbound campaign volume.
  * Verified Percentage: Ratio of accounts with 2FA or SMS verification completed.
+# DEMO
+![App Screenshot](demo.gif)
+
+# DONATE
+
+ Email : 2yt1fn1y5e@mkzaso.com
+ 
+ xmr   : 85dUydQb2kFTtZ1kxadRaf3Tqu8oWQEaZH3gtW5ZXvpa8wxgNr1yFi5cTEsAiSaGNdgkpsCdaUfsbiVpdKJyvwBq2Xek9w7
